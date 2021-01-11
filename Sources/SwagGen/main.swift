@@ -1,4 +1,5 @@
 import Foundation
+import FoundationNetworking
 import PathKit
 import SwagGenKit
 import SwiftCLI
